@@ -21,4 +21,13 @@
 - **Content collected:** (leave blank for now, fill in later)
 - **Date collected:** April 2026
 
+**Expert 1: Kevin Indig (https://www.linkedin.com/in/kevinindig/)**
+- **Platform:** LinkedIn 
+- **Profile:** 
+- **Why credible:** 2 sentences — what have they actually done/built?
+- **Content collected:** (leave blank for now, fill in later)
+- **Date collected:** April 2026
 - https://www.linkedin.com/in/kevinindig/
+
+- https://www.youtube.com/@GregIsenberg
+- https://www.linkedin.com/in/gisenberg/
