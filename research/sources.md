@@ -47,3 +47,8 @@
 
 - Nathan Gotch through a youtube page called Semrush
 - https://www.linkedin.com/in/nathangotch/
+
+Lennys [podcast
+ethan smith - graphite 
+
+ahred - multiple mentions across reddit, google & youtube.
