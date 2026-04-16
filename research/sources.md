@@ -36,14 +36,14 @@
 - **Content collected:** (leave blank for now, fill in later)
 - **Date collected:** April 2026
 
-**Expert 1: Rob walling (https://www.linkedin.com/in/robwalling/)**
-- **Platform:** Youtube 
-- **Profile:** https://www.youtube.com/@RobWalling
-- **Why credible:** 2 sentences — what have they actually done/built?
-- **Content collected:** (leave blank for now, fill in later)
-- **Date collected:** April 2026
+https://www.linkedin.com/in/brendanhufford/
+https://www.linkedin.com/in/ane-wiese-seo-cro-saas-strategy/
+https://www.linkedin.com/in/samanyougarg/
+https://www.linkedin.com/in/evanbailyn/
+https://www.linkedin.com/in/sol-rashidi-mba-a672291/
+https://www.linkedin.com/in/sudhirvashist/
+https://www.linkedin.com/in/connorgillivan/
 
-- https://www.youtube.com/@AmitTiwari
 
 - Nathan Gotch through a youtube page called Semrush
 - https://www.linkedin.com/in/nathangotch/
