@@ -43,7 +43,7 @@ Why credible: Former head of SEO at ActiveCampaign, now runs AI-powered content 
 Expert 6: Ethan Smith (Graphite)
 
 Platform: LinkedIn, YouTube
-Profile: https://www.linkedin.com/in/ethansmith-graphite/
+Profile: https://www.linkedin.com/in/ethanls/
 Why credible: CEO of Graphite, an SEO agency that built AI-powered programmatic content systems for companies like Airbnb and Coinbase. One of the few practitioners with documented results at scale.
 
 
