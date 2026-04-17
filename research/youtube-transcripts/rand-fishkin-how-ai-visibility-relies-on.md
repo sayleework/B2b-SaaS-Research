@@ -1,0 +1,11 @@
+# How AI Visibility Relies on Best of Lists
+
+**Channel:** Rand Fishkin
+**Video URL:** https://www.youtube.com/watch?v=c-VgQIevu0g
+**Date Retrieved:** April 2026
+
+---
+
+## Transcript
+
+Haha, what a great research piece. This was self-promotional best lists boost your visibility in AI tools like chatbt uh and Glenn Alop and the team at AHS uh went through and and did exactly this. They created a bunch of lists and they looked at a bunch of lists and then they saw whether the items on those lists had outsized visibility in terms of their their mentions in chatbt. And um yeah, the answer is they sure do. They sure do. And and in fact, it's better not only to be on more lists, but to be higher up on the lists. So, you know, if you go to Google and you search for um best premium paints uh 2025, what you are likely to get in these types of answers, whatever Benjamin Moore, Sherwin Williams, Pharaoh and Ball are going to be similar to what you would find on all the lists of these interior designers reveal the 10 most timeless, our top premium pets of 2025. like those same lists are what power these types of results because of course AI is spicy autocomplete. Uh two more quick examples here. You know, Lily Ray is pointing out in her post here that uh when she started in SEO, reciprocal links were a big thing I remember these days. And now people are emailing and and DMing and saying, "Hey, how about I put you on my best of list and you put me on your best of list?" To which my reply is, well, if you think AIS are ethically problematic, then you have a civic duty to spam them by putting all the people who want reciprocal mentions on there. And I'll just point out this is a um a post from Steve Payne at Cyrix who noted that uh here you can see this graphic. I'll I'll put I'll make it bigger. Noted that the AI tools still think I am the top SEO expert. Of course, I haven't been in SEO for eight years. I barely know the practice anymore. Uh, compared to Alita and Lily and Barry who's sort of an SEO commentator. But this is what you're going to get, right? If you're using these lists, then you're going to get these types of results. And that's why this this process of being in these lists works. I I really appreciate the AHF folks putting out there. Hopefully this helps you understand how AI visibility inventions works.

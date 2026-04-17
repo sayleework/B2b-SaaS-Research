@@ -6,12 +6,12 @@ API_KEY = "sd_20f599a2e6115093f3f0ce712814c741"
 OUTPUT_DIR = os.path.join(os.path.dirname(__file__), "research", "youtube-transcripts")
 
 VIDEOS = [
-    "https://www.youtube.com/watch?v=PmKPtCUZlCE",
-    "https://www.youtube.com/watch?v=9JfTwbCwKco",
-    "http://youtube.com/watch?v=UWHcOQCw4NU",
-    "https://www.youtube.com/watch?v=9wuHUDm4-WE",
-    "https://www.youtube.com/watch?v=LOLzw_ZkoIc",
-    "https://www.youtube.com/watch?v=mbCfRlY7elM",
+    "https://www.youtube.com/watch?v=-4cu882OJ8E",
+    "https://www.youtube.com/watch?v=L7qfCzlQjxY",
+    "https://www.youtube.com/watch?v=1dKcxlQZMwI",
+    "https://www.youtube.com/watch?v=c-VgQIevu0g",
+    "https://www.youtube.com/watch?v=-pUMNtq8Bp0",
+    "https://www.youtube.com/watch?v=2nJkT8zOzcM",
 ]
 
 
