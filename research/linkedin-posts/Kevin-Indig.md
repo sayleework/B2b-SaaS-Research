@@ -5,161 +5,113 @@
 URL: https://www.linkedin.com/posts/kevinindig_an-analysis-of-68-million-subheadings-reveals-activity-7450521258842185728-54cl
 
 Content:
-For two decades, SEO strategies prioritized "ultimate guides" with lengthy introductions to increase time-on-page.
+An analysis of 6.8 million subheadings reveals a measurable correlation between specific heading structures and ChatGPT citation rates.
 
-An analysis of 1.2 million search results indicates this approach is ineffective for Large Language Model visibility.
+While we often focus on overall word count or keyword density, subheading formatting appears to act as a significant sorting signal for AI retrieval systems.
 
-Data from 18,012 verified ChatGPT citations reveals a distribution pattern heavily weighted toward the beginning of a document.
+We examined H2 to H4 headings across 815,000 query and page pairs to identify patterns associated with higher AI visibility.
 
-44.2% of all citations originate from the first 30% of the text.
+Here is what the data indicates:
 
-The probability of citation drops significantly after this initial section, creating a "ski ramp" effect.
+1. Question Formats Show Higher Alignment
+ChatGPT fanout queries are frequently phrased as questions. Consequently, question style headings appear to align more naturally within the embedding space, matching fanout queries at 1.5x the rate of declarative headings.
 
-This distribution suggests LLMs prioritize the "Bottom Line Up Front" structure common in journalism.
+2. The 20 to 39 Character Range Yields Peak Rates
+Heading length shows a clear impact on performance. The 20 to 39 character range correlates with the highest citation rate at 32.7 percent. Conversely, headings over 60 characters correspond with a 6 percentage point drop in citation rates, while extremely short headings under 20 characters (like "Overview") exhibit poor matching capabilities.
 
-Models appear trained to identify weighted information at the top of a document and interpret subsequent text through that initial frame.
+The Practical Application:
+Testing a structure where a quarter to half of your subheadings are phrased as user questions is a data-backed starting point.
 
-Information located in the footer (90–100% of the page) accounts for only 6.9% of citations.
+For example, "What does X cost?" shows better retrieval alignment than both the overly broad "Pricing" and the diluted "A complete breakdown of pricing options for X".
 
-Burying key product features or definitions deep in the content reduces retrieval probability by a factor of 2.5 compared to the introduction.
+Structuring your H2s to mirror natural user prompts rather than traditional blog titles may significantly improve your probability of being cited.
+
+(All details in this week's Growth Memo)
 
 **Post 2**
 
 URL: https://www.linkedin.com/posts/kevinindig_how-do-buyers-decide-which-product-to-trust-activity-7447969171415699456-hbWv
 
 Content:
-How do buyers decide which product to trust?
+How do buyers decide which product to trust when they stop cross-checking multiple websites?
 
-Most teams assume buyers compare features, pricing, and specs.
+In traditional search, the dominant trust mechanism is multi-source convergence. Users build confidence by triangulating information, checking to see if multiple independent sources agree on a product. This behavior occurred in 37% of the classic search tasks we analyzed.
 
-But the reality is different: buyers look for validation signals.
+In AI Mode, that triangulation behavior drops to just 5%.
 
-They trust products that:
+Instead, trust relies heavily on two completely different signals:
 
-Are mentioned by third parties
-Show up consistently across channels
-Have clear positioning and differentiation
-Provide proof (reviews, case studies, testimonials)
+1/ AI Framing (37%): Users trust the specific words and structure the AI uses to describe a product.
 
-Trust is not built on your website alone.
+2/ Brand Recognition (34%): Users select or eliminate brands based on prior familiarity, regardless of the AI's description.
 
-It’s built across the entire ecosystem where your product appears.
+When users lack an existing brand preference, the AI's framing becomes the deciding factor. For example, one participant chose an insurance provider simply because the AI surfaced an exact dollar amount rather than a percentage discount.
 
-In an AI-driven world, this becomes even more important.
+In an AI-driven environment, the synthesis itself becomes the corroboration.
 
-AI systems don’t just read your claims — they verify them.
-
-They look for corroboration across multiple sources before citing or recommending a product.
-
-Which means:
-
-👉 If your brand isn’t mentioned outside your own site, your chances of being surfaced drop significantly.
-
-Trust is distributed.
-And so is visibility.
+Read the full study in this week's Growth Memo.
 
 **Post 3**
 
 URL: https://www.linkedin.com/posts/kevinindig_the-seo-assumption-that-comprehensive-content-activity-7449792336324259841-7kHC
 
 Content:
-The SEO assumption that comprehensive content wins is breaking.
+The SEO assumption that comprehensive content performs better is completely wrong when it comes to ChatGPT citations.
 
-For years, the playbook was simple:
-→ Cover every angle
-→ Write long-form content
-→ Be the “ultimate guide”
+Every "best practice" pushes you toward more: more subtopics, more sections, more words.
 
-But AI changes the game.
+We analyzed 815,000 query and page pairs across 16,851 queries to see if this holds true for ChatGPT. The data says otherwise.
 
-Models don’t reward length.
-They reward clarity and extractability.
+The "ultimate guide" strategy produces worse results than a focused article that covers two to three related angles well. In fact, moderate coverage of 26 to 50 percent of subtopics outperforms exhaustive coverage. Pages that cover everything score lower than pages that cover a quarter of the subtopics.
 
-What matters now:
+The pages that win consistently in ChatGPT are highly focused. They:
 
-Clear answers
-Strong structure
-High information density
-Easy-to-quote sections
+1. Match the query directly in their headings
+2. Tend to be shorter, hitting a citation sweet spot between 500 and 2,000 words
+3. Maintain structure, using 7 to 20 subheadings to organize content without diluting it
 
-Comprehensive content isn’t dead.
+The takeaway: Build the page that is the best answer to one question. Not the page that adequately answers twenty.
 
-But bloated content is.
+(All details in this week's Growth Memo)
+Activate to view larger image,
+chart, bar chart
 
-If your content buries insights under fluff, it loses — even if it ranks.
-
-The new goal isn’t to be the longest.
-
-It’s to be the most useful answer.
 
 **Post 4**
 
 URL: https://www.linkedin.com/posts/kevinindig_chatgpt-judges-a-page-by-its-cover-pages-activity-7449429938811830272-sw5c
 
 Content:
-ChatGPT judges a page by its cover.
+ChatGPT judges a page by its cover
 
-Pages that perform well in AI answers have one thing in common:
+Pages with headlines that directly answer the question get cited 41% of the time. Pages with loosely related headlines drop to 29%. 
 
-They front-load value.
+I partnered with AirOps on a study of 815,000 query and page pairs across 16,851 queries and 10 industries. Three findings that should change how you approach AI visibility:
 
-The first few lines determine whether your content gets used or ignored.
+1/ Retrieval rank is the #1 signal: A page at position 1 has a 58% chance of being cited. By position 10, that drops to 14%.
 
-AI systems:
+2/ Do comprehensive guides still win? Not exactly. Pages covering 26-50% of ChatGPT's fanout sub-queries get cited more than pages covering 100%. 
 
-Scan quickly
-Extract early
-Decide fast
+3/ Domain authority predicts nothing: Always-cited pages have lower DA than never-cited pages. Content quality is what counts.
 
-If your key message isn’t visible immediately, it’s likely missed.
-
-This is a fundamental shift from traditional SEO.
-
-Before: hook the reader → then deliver value
-Now: deliver value → then expand
-
-Think like a journalist:
-Bottom Line Up Front (BLUF).
-
-Because for AI, the introduction isn’t just a hook.
-
-It’s the answer.
+The full report covers 20+ signals, with controlled comparisons across each. Full breakdown in today’s Growth Memo!
 
 **Post 5**
 
 URL: https://www.linkedin.com/posts/kevinindig_where-do-consumers-go-when-they-finally-click-activity-7448327689691856896-4b2Q
 
 Content:
-Where do consumers go when they finally click?
+Where do consumers go when they finally click out of an AI search result?
+Our latest 48-participant behavioral study indicates that when users leave AI Mode, they leave to buy, not to research.
 
-Not where most marketers think.
+While 67% of standard search tasks involved visiting an external site to discover candidates, only 23% of AI Mode tasks triggered an external visit. 
 
-Clicks are no longer the primary outcome.
+The intent behind those clicks also fundamentally shifts:
+- In standard search, Users clicked on Reddit in 19% of tasks as users sought peer opinions.
+- In AI Mode, Reddit clicks happened in 8.8% of tasks.
 
-AI is absorbing discovery.
+AI Mode users primarily clicked out to retailer sites, like Best Buy, or manufacturer pages to verify a price for a candidate they had already selected from the AI's list.
 
-By the time users click, they’re already deep into decision-making.
+This creates a heavily concentrated distribution of choices. For laptop queries, just three brands captured 93% of all AI Mode final choices. If a brand never appeared in the AI's initial output, participants simply never considered it.
 
-Which means:
-
-Your website is no longer the first touchpoint.
-It’s a mid- or bottom-funnel experience.
-
-Users arrive with:
-
-Context
-Comparisons
-Pre-formed opinions
-
-So what do they need?
-
-👉 Confirmation
-👉 Proof
-👉 Clear differentiation
-
-If your page only educates, you lose.
-
-Because education already happened in AI.
-
-Your job now is to convert informed users — not attract uninformed ones.
-
+Visibility at the model layer isn't just a ranking metric; it is the new threshold for existing in the buyer's journey.
