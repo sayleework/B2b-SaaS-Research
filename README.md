@@ -1,4 +1,5 @@
 B2b-SaaS-Research
+
 This research is focused on AI-powered SEO content production as a growth channel for B2B SaaS companies in the HR/recruiting space (I've tried my best to find this alignment)
 
 Process: 
