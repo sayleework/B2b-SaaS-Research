@@ -48,32 +48,36 @@ Why credible: CEO of Graphite, an SEO agency that built AI-powered programmatic 
 
 
 
-Expert 7: Samanyou Garg
+Expert 7: Aleyda Solis
+
+Platform: LinkedIn, YouTube
+Profile: https://www.linkedin.com/in/aleydasolis/ | https://www.youtube.com/@AleydaSolis
+Why credible: Founder of Orainti, an SEO consultancy with 15+ years of experience working with enterprise-level clients across European, American, and Latin American markets. Orainti Actively teaches AI search optimization frameworks and has spoken publicly on how to adapt SEO strategy specifically for AI-driven search engines. AirOps
+Content collected:
+
+
+
+Expert 8: Lily Ray
+
+Platform: LinkedIn, YouTube
+Profile: https://www.linkedin.com/in/lily-ray-44755615/
+Why credible: Founder of Algorythmic and VP of SEO Strategy at Amsive, where she leads a 35-person team serving Fortune 50 clients, with 16 years of experience in algorithm analysis and AI search. Amsive Delivered a keynote at Affiliate Summit West 2026 on the state of AI and SEO, covering how search has evolved into an answer-engine paradigm. Affiliate Summit
+Content collected:
+
+
+
+Expert 9: Rand Fishkin
+
+Platform: LinkedIn, YouTube
+Profile: https://www.linkedin.com/in/randfishkin/
+Why credible: Co-founder and CEO of SparkToro and former founder of Moz, one of the world's leading SEO software companies — a leading voice on digital marketing for over two decades. PhocusWire Has written extensively on how AI-generated content is reshaping the content quality floor and what human creators must do to stay competitive. SparkToro
+Content collected:
+
+
+
+Expert 10: Kelsey Libert
 
 Platform: LinkedIn
-Profile: https://www.linkedin.com/in/samanyougarg/
-Why credible: Founder of Writesonic, an AI content and SEO platform built before ChatGPT existed. Actively shares real data from 500M+ AI search conversations tracked through his platform.
-
-
-
-Expert 8: Connor Gillivan
-
-Platform: LinkedIn
-Profile: https://www.linkedin.com/in/connorgillivan/
-Why credible: Founder of TrioSEO, runs SEO for four B2B companies simultaneously and documents every process publicly. Posts daily on LinkedIn with real AI SEO workflows and case studies.
-
-
-
-Expert 9: Ane Wiese
-
-Platform: LinkedIn
-Profile: https://www.linkedin.com/in/ane-wiese-seo-cro-saas-strategy/
-Why credible: SEO Lead at saas.group, managing SEO across multiple acquired SaaS brands. Has publicly discussed integrating AI into content workflows while maintaining quality oversight.
-
-
-
-Expert 10: Sudhir Vashist
-
-Platform: LinkedIn
-Profile: https://www.linkedin.com/in/sudhirvashist/
-Why credible: Founder of SEORCE, an AI-powered search intelligence platform. Has 20+ years in SEO and posts actively about AI SEO for SaaS companies, including his own experiments and results.
+Profile: https://www.linkedin.com/in/kelseylibert/
+Why credible: Co-founder of Fractl, a top-ranked content marketing agency that has delivered 5,000+ campaigns for Fortune 500 brands including Adobe and Paychex. Fractl Currently building 30 AI agents for PR, SEO, and social media workflows, and speaks regularly at major SEO conferences on AI-driven content strategy. Search Engine Land
+Content collected:

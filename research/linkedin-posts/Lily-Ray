@@ -1,0 +1,57 @@
+Post 1
+URL
+https://www.linkedin.com/posts/lily-ray-44755615_gene-wilder-would-like-to-remind-everyone-activity-7450920000544055297-8rw6?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD5MLMkBmHpzNCnxlfUxp0li8W9iVXN1PFo
+content: 
+What David said below is my first thought whenever I read new studies about “what works in AI search.”
+
+The outcome almost always represents something that is also essential for SEO, and I think the more plausible explanation is that there is a strong correlation between top-performing citations in AI search and top-ranking URLs in search results.
+
+Because that’s literally how RAG works.
+
+I’m not saying these studies aren’t helpful; if anything, they help validate the things we should be focused on for overall search visibility. 
+
+But I see it as the classic question of correlation vs. causation: Do LLMs actually “prefer” optimized titles, clear headings, and helpful FAQs on their own? Or are those just common features of content that ranks well, and therefore content RAG is more likely to surface in the first place?
+
+There’s probably some truth to both. Structural clarity likely does help at the synthesis stage - well-organized content is easier for an LLM to parse, extract from, and cite accurately. 
+
+But I believe that’s a much smaller effect than what most of these studies imply. The retrieval layer is doing the heavy lifting, and retrieval is largely downstream of SEO.
+
+So when a study says “LLMs love keyword-optimized URLs,” I think the more accurate statement is: many pages that rank well tend to have well-optimized URLs, and pages that rank well get retrieved. The optimized URL isn’t the cause - but it correlates with the thing that actually is.
+
+Post 2:
+URL: https://www.linkedin.com/posts/lily-ray-44755615_last-year-i-asked-perplexity-about-the-latest-activity-7449931419956490240-IIfc?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD5MLMkBmHpzNCnxlfUxp0li8W9iVXN1PFo
+Content:
+Last year, I asked Perplexity about the latest SEO/AI search updates. It confidently told me about the September 2025 "Perspectives" Core Update.
+
+The problem? That update never happened. It doesn't exist. It was fabricated by AI-generated content on agency blogs, cited by other AI-generated content, and eventually treated as fact by multiple LLMs.
+
+To this day, you can ask ChatGPT, AI Overviews, or AI Mode about it and they'll explain how this fictitious update "fundamentally shifted how search results are ranked." 🙄 
+
+This is what I'm calling the AI Slop Loop: one hallucination gets scraped, republished, cited, and fed back into the same systems that created it. The cycle compounds, and the misinformation becomes the official narrative across AI platforms.
+
+I spoke with journalists at the BBC and the New York Times about this problem and did some experiments to put it to the test. For one, I published a fake core update announcement on my blog and within 24 hours, AI Overviews, AI Mode, Gemini, and ChatGPT were serving it as fact.
+
+The results are scary, and the implications for the vast majority of AI users are not good.
+
+I wrote the full breakdown on my latest Substack. Link in comments.
+
+Post 3:
+URL: https://www.linkedin.com/posts/lily-ray-44755615_seos-you-need-to-be-aware-of-the-monumental-activity-7443707762284392449-vCeZ?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD5MLMkBmHpzNCnxlfUxp0li8W9iVXN1PFo
+Content: 
+This is *very* interesting.
+
+The ChatGPT 5.4 update has definitely implemented some changes that are impacting AI search. 
+
+When Chris Long and others pointed out the fan-out query changes in 5.4, my first thought was that it looks like OpenAI is introducing new systems to try to reduce citations from biased/untrustworthy sources. 
+
+By conducting site: searches and limiting web searches to trusted domains (G2, Clutch), ChatGPT is retrieving a more refined list of candidates to consider for its search-enabled responses. 
+
+I also thought it was interesting that when Chris looked for SEO agencies, ChatGPT's fan-out queries included names of agencies like ours (Amsive), iPullRank, Seer Interactive, Rise at Seven, and other SEO agencies I would argue have been among the leading agencies in the industry for a long time (in terms of recognition, awards, thought leadership, conference keynotes, etc.)
+
+I think this is a clue that OpenAI is likely working on solutions to reduce biased sources influencing the results (e.g. self-promotional listicles) and trying to refine the candidate pool of retrieved sources to more trustworthy, reputable information. 
+
+Google also announced a core update on Friday, and I'll be curious to see what steps they are taking (if any) to reduce a lot of the potentially spammy stuff many sites have been doing, especially with scaling AI-generated content in the SERPs. 
+
+There has been a lot of attention on the quality of Google's results lately (h/t Thomas Germain and others) and that often seemed to serve as an impetus for Google to make big changes to its results in past years. 
+
+I think we're still in the early stages of it, but I imagine this will be a year filled with countermeasures from the search/AI companies against the massive influx of new tactics that aim to manipulate their results.

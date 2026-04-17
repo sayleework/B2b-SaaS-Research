@@ -1,0 +1,97 @@
+**Post 1**
+
+URL: https://www.linkedin.com/posts/aleyda_common-ai-search-tracking-mistakes-and-activity-7450585310587174915-qilk
+
+Content:
+1. Treating traffic-based metrics as a proxy for AI visibility or the full measure of AI impact 
+
+Organic traffic doesn't show whether a brand is being surfaced, cited, or recommended inside AI-generated answers, especially when no click happens. 
+
+2. Treating AI search as a performance channel only, rather than a performance and branding channel 
+
+AI search influences both direct response outcomes and brand outcomes. A brand can benefit from AI-generated recommendations, stronger recall, better category association, and improved perceived credibility without generating an immediate click or a directly attributable conversion. 
+
+3. Drawing conclusions from single-session prompt tests 
+
+Given the response volatility of current AI systems, a single session is not a meaningful data point. Reliable presence requires repeated testing across multiple sessions per prompt and across multiple tracking periods. 
+
+4. Assuming your visibility and performance are the same across all AI platforms 
+
+Platform behavior varies: citation volumes, source selection patterns, response style, and brand recommendations differ across ChatGPT, Perplexity, Google AI Overviews, Google AI Mode, Gemini, and Copilot. A brand can be well represented in one system and much less visible in another. 
+
+5. Collapsing mentions, citations, links, recommendations, and sentiment into one generic visibility metric. 
+
+Counting all brand appearances in AI answers as the same type of visibility hides whether a brand is actually being selected, supported by source citations, driving potential traffic, or being described favorably. These distinctions are critical for diagnosing whether the opportunity is one of recall, authority, referral, or brand positioning. 
+
+6. Applying ranking position logic to AI answers 
+
+In traditional search, position one, two, and three have defined strategic meaning. AI answers do not work this way. There is no stable ranking position. A brand is either present in an answer or it is not, described in a particular way or not, recommended or merely referenced. Prominence within an answer matters, but it is not equivalent to a ranking position and should not be measured or communicated as one. 
+
+7. Ignoring representation accuracy 
+
+Whether a brand appears in an AI answer is only part of what matters. How it is described matters equally. A brand can appear frequently in AI answers while being mischaracterized, positioned in the wrong category, or associated with weaknesses rather than strengths. 
+
+8. Extrapolating from industry statistics to brand-level conclusions 
+
+Published research on AI search is generated from specific samples, time periods, and query sets. These findings provide useful directional context. They do not predict what any individual brand’s AI visibility looks like. Brand-level measurement requires brand-level data collected systematically over time.
+
+- What others should I add?
+
+**Post 2**
+
+URL: https://www.linkedin.com/posts/aleyda_the-fan-out-effect-what-happens-between-activity-7449820273513680896-Se54
+
+Content:
+The Fan-Out Effect: What Happens Between a Query and a Citation - From a research developed by Kevin Indig & AirOps analyzing 16,851 queries and +353K pages across ChatGPT's full retrieval pipeline: 
+
+* Retrieval rank is the #1 signal. A page at position 1 in ChatGPT's retrieval results has a 58% citation rate vs. 14% at position 10 — a 4x gap that no amount of content quality alone won't close. Great SEO is your advantage in AI search.
+
+* Your headings are what get you cited. Pages with headings that closely match the user's query are cited 41% of the time vs. 29% for weak matches. Heading structure is the primary on-page lever for AI citation — more impactful than word count, topical breadth, or body copy.
+
+* Domain authority doesn't translate. DA and backlinks show no positive correlation with AI citation — and are slightly inversely correlated. ChatGPT evaluates content directly based on relevance and structure, not authority signals.
+
+Read more in link in comments
+
+**Post 3**
+
+URL: https://www.linkedin.com/posts/aleyda_seo-in-2026-higher-standards-ai-influence-activity-7447220940360511488-oKW0
+
+Content:
+🚀 SEO in 2026: Higher standards, AI influence, and a web still catching up 👇 A comprehensive view of the current state of SEO related configurations from the Web Almanac by Chris Green : 
+
+* Near-universal adoption of HTTPS (now up to 91%+).
+
+* Increased use of title tags at nearly 99% adoption, and even viewport meta tags at over 93% adoption.
+
+* Canonical adoption rose from 65% in 2024 to 67%+ in 2025.
+
+* HTML validity is slowly improving. For example, invalid <head> elements dropped to 10.1% on desktop and 10.3% on mobile from 10.6% and 10.9%, respectively, in the previous year.
+
+* Robots.txt error rates fell404s declined to 13% from 14% the previous year, and 5xx responses fell to ~0.1%.
+
+* Meta robots usage has crept up to 46.2% in 2025 from 45.5% the prior year.
+
+Read: https://lnkd.in/e-MZeYNF
+
+**Post 4**
+
+URL: https://www.linkedin.com/posts/aleyda_does-ai-content-rank-well-in-search-survey-activity-7447191233782947840-_qCM
+
+Content:
+Does AI content rank well in search? [Survey + Data study] by Margarita Loktionova / Semrush showing that: 
+
+ * Humans still lead most content workflows : 87% of SEO teams report that their content is either fully created by humans or heavily led by humans. Keeping humans directly involved in production and editing.
+
+* 64% of SEOs use a human-led AI-assisted workflow, making it the most common content production model. 
+
+* Most SEO professionals that use AI content (72%) say they think AI-assisted content performs just as well or better than human-written content in search rankings. 
+
+* However, after grading 42K blog posts with an AI detector, content classified as fully human-written outperformed content classified as AI-generated or mixed across all top 10 positions. 
+
+* The gap is most striking at position 1, where pages have an 80.5% probability of being human-written compared with just 10% for AI-generated.
+
+Conclusion: 
+
+Use AI to move faster through research, outlining, and drafting. Then invest the time saved into incorporating expert insights, proprietary data, and other elements that make your content stand out. 
+
+Read: https://lnkd.in/efj585Qj
