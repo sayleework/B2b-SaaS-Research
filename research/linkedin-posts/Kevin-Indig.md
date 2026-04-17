@@ -1,9 +1,7 @@
 
-[Kevin Indig] - LinkedIn Posts
 
 **Post 1**
 
-Date: ~1 week ago
 URL: https://www.linkedin.com/posts/kevinindig_an-analysis-of-68-million-subheadings-reveals-activity-7450521258842185728-54cl
 
 Content:
@@ -27,7 +25,6 @@ Burying key product features or definitions deep in the content reduces retrieva
 
 **Post 2**
 
-Date: ~2 weeks ago
 URL: https://www.linkedin.com/posts/kevinindig_how-do-buyers-decide-which-product-to-trust-activity-7447969171415699456-hbWv
 
 Content:
@@ -63,7 +60,6 @@ And so is visibility.
 
 **Post 3**
 
-Date: ~2 weeks ago
 URL: https://www.linkedin.com/posts/kevinindig_the-seo-assumption-that-comprehensive-content-activity-7449792336324259841-7kHC
 
 Content:
@@ -98,7 +94,6 @@ It’s to be the most useful answer.
 
 **Post 4**
 
-Date: ~2 weeks ago
 URL: https://www.linkedin.com/posts/kevinindig_chatgpt-judges-a-page-by-its-cover-pages-activity-7449429938811830272-sw5c
 
 Content:
@@ -132,7 +127,6 @@ It’s the answer.
 
 **Post 5**
 
-Date: ~3 weeks ago
 URL: https://www.linkedin.com/posts/kevinindig_where-do-consumers-go-when-they-finally-click-activity-7448327689691856896-4b2Q
 
 Content:
@@ -168,3 +162,4 @@ If your page only educates, you lose.
 Because education already happened in AI.
 
 Your job now is to convert informed users — not attract uninformed ones.
+
