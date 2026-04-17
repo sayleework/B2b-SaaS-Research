@@ -15,12 +15,16 @@ Research Methodology:
 - Came across some channels and podcasts which I've mentioned in the file "Other Research"
 
 Tools Used
+
 **Claude Code (Cursor IDE)**
 Used to write & run the transcript collection script directly inside the repository. Claude Code generated a Python script that automated fetching and saving transcripts as markdown files.
+
 **Supadata API**
 Used to collect YouTube transcripts programmatically via API calls. The script (fetch_transcripts.py) sends video URLs to the Supadata API and saves each transcript as a .md file in /research/youtube-transcripts/.
+
 **Python**
 The fetch_transcripts.py script was written in Python by claude code and run locally to automate transcript collection.
+
 **GitHub**
 To create this repository :)
 
