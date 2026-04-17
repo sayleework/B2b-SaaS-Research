@@ -5,144 +5,189 @@ URL: https://www.linkedin.com/posts/anna-york-seo_your-landing-page-ranks-on-goo
 
 Content:
 Your landing page ranks on Google.
+But it disappears in AI answers. 
 
-But it doesn’t get mentioned in ChatGPT.
+When someone asks ChatGPT: 
+“What’s the best [tool/service/solution] for X?” 
 
-Why?
+Your page either: 
+→ gets cited 
+→ or gets ignored 
 
-Because ranking ≠ retrieval.
+Most marketing teams are only optimizing for Google. 
 
-Traditional SEO optimizes for search engines.
-AI optimization requires a different approach.
+Here’s what AI actually looks for 👇 
 
-If your page:
+1. Outcome-driven headline
+2. Clear entity positioning
+3. Direct, extractable answers above the fold
+4. Buyer-intent Q&A sections
+5. Real case studies (names + numbers)
+6. Verifiable authority signals
+7. Structured schema markup
+8. Topical authority reinforcement
+9. Citable stats and claims
+10. Consistent positioning
+11. Transparent pricing logic
+12. Strong conversion CTAs
 
-Doesn’t clearly answer the query upfront
-Lacks structured, extractable insights
-Buries key information under fluff
+This builds on traditional SEO.
 
-…it’s less likely to be cited by AI systems.
+AI selects answers it can trust and cite. 
 
-AI doesn’t “browse” like humans.
-It extracts.
+If your page isn’t structured for that → it won’t show up. 
 
-Which means your content must be:
-→ Direct
-→ Structured
-→ Easy to quote
+The good news: 
+You don’t need a rebuild. 
 
-If you want visibility in AI answers, stop writing for rankings alone.
+You need the right fixes in the right order. 
 
-Start writing for retrieval.
+If you need a step-by-step AI visibility guide:
+👉 https://lnkd.in/d9GuGVEk
+
+Build for citation, not just clicks. 
+
+— Anna
 
 **Post 2**
 
 URL: https://www.linkedin.com/posts/anna-york-seo_ai-systems-dont-invent-authority-they-detect-activity-7441819818489548802-v-06
 
 Content:
+AI systems don't invent authority, they detect it
+
+A brand that wins in AI search
+without already winning in traditional SEO.
+
+So far… no examples.
+
+Right now a lot of people talk about:
+
+• GEO (Generative Engine Optimization)
+• AEO (Answer Engine Optimization)
+
+as if they are completely new disciplines.
+
+But when you look at the brands that consistently appear in AI answers 
+a pattern appears.
+
+Most of them already have:
+
+• strong SEO foundations
+• high-quality content
+• topical authority
+• lots of mentions across the web
+
+In other words:
+
+They were already winning in traditional search. [SEO]
+
 AI systems don’t invent authority.
 
 They detect it.
+They synthesize it.
+And they reuse it.
 
-And they do it by scanning patterns across the web.
+That’s why I currently see SEO as the foundation layer of AI visibility.
 
-If your brand:
+GEO and AEO are not replacements for SEO.
 
-Is consistently mentioned
-Appears in trusted sources
-Has strong topical relevance
+They are extensions of it.
 
-…it’s more likely to be surfaced.
+Curious what others are seeing.
 
-But if your presence is limited to your own website?
-
-You’re invisible.
-
-Authority today isn’t what you claim.
-
-It’s what others say about you — at scale.
-
-Which means:
-
-PR, content distribution, and third-party mentions are no longer optional.
-
-They’re foundational for AI visibility.
+If someone can show a brand that shows up in AI answers without SEO authority, I’d love to see it 👇
 
 **Post 3**
-
-URL: https://www.linkedin.com/posts/anna-york-seo_well-this-certainly-was-a-pleasant-surprise-activity-7439282071761469440-FAjI
-
-Content:
-Well, this certainly was a pleasant surprise.
-
-One of my articles was picked up and cited in AI-generated answers.
-
-No paid promotion.
-No backlinks campaign.
-
-Just:
-
-Clear structure
-Strong positioning
-Direct answers
-
-This reinforces something important:
-
-You don’t need massive domain authority to be cited.
-
-You need clarity.
-
-AI systems prioritize usefulness over brand size.
-
-Small creators have an edge — if they structure content well.
-
-**Post 4**
 
 URL: https://www.linkedin.com/posts/anna-york-seo_these-are-the-3-optimization-strategies-that-activity-7440732625973059584-e_mI
 
 Content:
-These are the 3 optimization strategies that matter for AI visibility:
+These are the 3 optimization strategies that matter now 👇 
 
-Front-load key information
-Put the answer in the first few lines.
-Structure for extraction
-Use headings, bullet points, and clear sections.
-Build distributed authority
-Get mentioned across multiple trusted sources.
+1️⃣ SEO (Search Engine Optimization)
+The classic. The foundation.
 
-That’s it.
+- Keyword mapping
+- Authority building
+- Technical health
 
-No hacks.
-No tricks.
+This is what drives steady, reliable organic traffic over time.
 
-Just aligning your content with how AI systems work.
 
-**Post 5**
+2️⃣ AEO (Answer Engine Optimization)
+Make your content “answer-ready” for AI systems and voice assistants.
+
+Think:
+- Featured snippets
+- FAQ schema
+- Clear, concise answers
+
+Your content gets pulled directly as the answer before people even click.
+
+
+3️⃣ GEO (Generative Engine Optimization)
+The newest frontier.
+Make your content the source AI actually cites.
+
+Requires:
+- Clean, logical structure
+- Credible, authoritative sources
+- Platform trust
+
+This is where true AI visibility lives.
+
+
+✅ Build all three layers: SEO → AEO → GEO.
+Each step compounds the last.
+
+Need a playbook to get it done? 
+Check out the AI Visibility Guide (link below).
+
+**Post 4**
 
 URL: https://www.linkedin.com/posts/anna-york-seo_claude-just-replaced-30-minutes-in-semrush-activity-7435659203068764160-o2h1
 
 Content:
-Claude just replaced 30 minutes in SEMrush for me.
+Claude just replaced 30 minutes in Semrush with one prompt.
 
-Instead of digging through reports, I asked:
-“What are the key SEO opportunities on this page?”
+And this isn’t AI “guessing.”
+It’s pulling live data.
 
-And got:
+I connected Claude to the Semrush MCP and asked:
 
-Content gaps
-Structure issues
-Optimization suggestions
+“List domains in the dog food industry in Germany for January 2026. Include estimated organic traffic and rank them by traffic.”
 
-In seconds.
+Seconds later, I had:
 
-This is where things are heading.
+→ The dominant players
+→ Exact traffic gaps
+→ A clear market hierarchy
+→ Data I can build strategy on
 
-SEO tools won’t disappear.
+No dashboard hopping.
+No filters.
+No exports.
 
-But workflows will change.
+Then:
 
-AI won’t just assist.
+“Who’s growing fastest YoY?”
+“Why are the top 3 winning?”
 
-It will replace chunks of manual analysis.
+Now it’s not data retrieval.
+It’s competitive intelligence.
 
-The winners will be those who adapt fastest.
+AI + live SEO data = research → insight → strategy in minutes.
+
+If you work in SEO or growth, this changes competitive analysis.
+
+I recorded a short walkthrough.
+
+
+P.S. If you want to try the setup yourself, check out the links below 👇
+
+
+📌 Youtube explainer video from Semrush: How to connect Semrush MCP to Claude, ChatGPT, etc. 
+Link: https://lnkd.in/dnd_MU7G
+
+📌 Want to try it out? Click here: https://bit.ly/4r8H2qF
